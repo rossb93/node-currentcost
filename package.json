@@ -1,0 +1,20 @@
+{
+  "name": "rfxcom",
+  "version": "0.0.1",
+  "author": {
+    "name": "Rob Righter",
+    "email": "robrighter@gmail.com"
+  },
+  "dependencies": {
+  },
+  "main": "currentcost.js",
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robrighter/node-currentcost.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robrighter/node-currentcost/issues"
+  }
+}
